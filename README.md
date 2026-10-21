@@ -19,18 +19,13 @@ A machine learning classification model that categorizes emails as either "Spam"
 ## How to Run
 
 1. Clone the repository:
-   ```bash
    git clone [https://github.com/your-username/Codec-AI-Internship.git](https://github.com/your-username/Codec-AI-Internship.git)
    cd Codec-AI-Internship
 
-    Install the required dependencies:
-    Bash
-
+2. Install the required dependencies:
     pip install scikit-learn
 
-    Execute the scripts:
-    Bash
-
+3. Execute the scripts:
     python chatbot.py
     python spam_classifier.py
 
